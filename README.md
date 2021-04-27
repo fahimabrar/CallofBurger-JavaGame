@@ -1,6 +1,6 @@
 ## Call of Burger
 
-- a simple runnig game built with Java for university course
+- a simple running game built with Java for university course
 - I use multiple screenshot of roads to give a feelings of video game
 
 ### To play
